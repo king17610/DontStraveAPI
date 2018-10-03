@@ -10,7 +10,7 @@
             "num": 1,
             "origin_price": "10000",
             "price": "9000",
-            "title": "一萬皮卡幣"
+            "title": "Wilson"
         },
         {
             "category": "精靈球",
@@ -21,7 +21,7 @@
             "num": 2,
             "origin_price": "600",
             "price": "600",
-            "title": "精靈球X3"
+            "title": "Willow"
         },
         {
             "category": "精靈球",
@@ -32,7 +32,7 @@
             "num": 3,
             "origin_price": "200",
             "price": "200",
-            "title": "精靈球"
+            "title": "Wendy"
         },
         {
             "category": "商城",
@@ -43,7 +43,7 @@
             "num": 4,
             "origin_price": "500",
             "price": "450",
-            "title": "500皮卡幣"
+            "title": "Wes"
         },
         {
             "category": "商城",
@@ -54,7 +54,7 @@
             "num": 5,
             "origin_price": "100",
             "price": "100",
-            "title": "100皮卡幣"
+            "title": "Wigfrid"
         },
         {
             "category": "商城",
@@ -65,7 +65,7 @@
             "num": 6,
             "origin_price": "12000",
             "price": "8800",
-            "title": "相機"
+            "title": "Wickerbottom"
         },
         {
             "category": "道具",
@@ -76,7 +76,7 @@
             "num": 7,
             "origin_price": "300",
             "price": "300",
-            "title": "幸運蛋X3"
+            "title": "Webber"
         },
         {
             "category": "精靈球",
@@ -87,7 +87,7 @@
             "num": 8,
             "origin_price": "1000",
             "price": "900",
-            "title": "精靈球X5"
+            "title": "Waxwell"
         },
         {
             "category": "藥品",
@@ -98,7 +98,7 @@
             "num": 9,
             "origin_price": "900",
             "price": "800",
-            "title": "復活石X3"
+            "title": "WX-78"
         },
         {
             "category": "商城",
@@ -110,7 +110,7 @@
             "num": 10,
             "origin_price": "999",
             "price": "199",
-            "title": "綜合大禮包"
+            "title": "Wilbur"
         }
     ],
     "messages": []
