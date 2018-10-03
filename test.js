@@ -1,4 +1,4 @@
-export default function (text) {
+export default function () {
     var url = location.href;
     if(url.indexOf('?')!=-1)
     {

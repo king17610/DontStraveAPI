@@ -4,8 +4,8 @@
         {
             "category": "商城",
             "description": "現省1000元哦",
-            "id": "-LNJOuzbh9wrm19vQa6j",
-            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537940597100.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=AVJHhnApo1%2FI%2FILnRXF3ytNiH3ZMn7aKXUd4rUUxsJPwqwCBEOoesmjFbuogrP1sicdh3GHikpl4LI44yTSC3Z5dapQ%2B%2FqHJBLXR6zjXOpxRS7YD2cVIKy3Lph7oQvGTT5l94jsEBJpMF2H6eDShzohOeFFwUcVIPRTYt49scybai6T8FLrx7BV3eXJKYF78uQ0MBLPStTKEHMjvF85bt9jvGDIDEt7kxmD7mHE1kTHL%2BgrUp8n3zJu5rFzd8UWxzb9qOQWeC%2BV6m9%2FBwWkGcqyBRwSBTr1p7mH6%2BIvdARo8NMbok1TaYo0pCqPls7i4Dw7Zt5FgeoxTmFhT7u49rQ%3D%3D",
+            "id": "Wilson",
+            "imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wilson.png",
             "is_enabled": 1,
             "num": 1,
             "origin_price": "10000",
