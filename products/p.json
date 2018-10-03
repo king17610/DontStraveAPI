@@ -1,0 +1,134 @@
+{
+    "success": true,
+    "products": [
+        {
+            "category": "商城",
+            "description": "現省1000元哦",
+            "id": "-LNJOuzbh9wrm19vQa6j",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537940597100.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=AVJHhnApo1%2FI%2FILnRXF3ytNiH3ZMn7aKXUd4rUUxsJPwqwCBEOoesmjFbuogrP1sicdh3GHikpl4LI44yTSC3Z5dapQ%2B%2FqHJBLXR6zjXOpxRS7YD2cVIKy3Lph7oQvGTT5l94jsEBJpMF2H6eDShzohOeFFwUcVIPRTYt49scybai6T8FLrx7BV3eXJKYF78uQ0MBLPStTKEHMjvF85bt9jvGDIDEt7kxmD7mHE1kTHL%2BgrUp8n3zJu5rFzd8UWxzb9qOQWeC%2BV6m9%2FBwWkGcqyBRwSBTr1p7mH6%2BIvdARo8NMbok1TaYo0pCqPls7i4Dw7Zt5FgeoxTmFhT7u49rQ%3D%3D",
+            "is_enabled": 1,
+            "num": 1,
+            "origin_price": "10000",
+            "price": "9000",
+            "title": "一萬皮卡幣",
+            "unit": "份"
+        },
+        {
+            "category": "精靈球",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。精靈球的作用是捕捉或者攜帶寶可夢，不同種類的精靈球擁有不同的特殊效果。",
+            "id": "-LMvjqkpv2D4O_0JZrUw",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537526935874.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=HkwqC8mM0RV1wStnRHFa4dwiz2OgbyOyylzhQtsHRtaDxtdbe3QJ0DBLTUSza%2Ftr9CA8UXgcC2RfvJ%2FGPhSglESTOVeCJolDEFcA183cMsuFuO1gsnc9PiQeBQEeIpfLEURo%2FV2uCxnBe4%2FZRuJgBfZawrxabbnDG6U9B2%2F4aBsb5weubi7aMTqG6MeW6PPlqz%2FYNkIfu5EMC8fCv0J9MV55lglUb0Ie%2Bwy9CpCcz9C0yuZ7xXThrlVybOjtlAE2%2Fb8jjcfAcAaCxYj99d2N%2Fgf3%2B58asMGCEvojMJtjl3sI4Hv7ZPk2AQeIa44MRBv9aU7hmz3P4RvySnEHj21fBw%3D%3D",
+            "is_enabled": 0,
+            "num": 2,
+            "origin_price": "600",
+            "price": "600",
+            "title": "精靈球X3",
+            "unit": "組"
+        },
+        {
+            "category": "精靈球",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。精靈球的作用是捕捉或者攜帶寶可夢，不同種類的精靈球擁有不同的特殊效果。",
+            "id": "-LMvjliwRKt_fHUSYCZS",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537526891772.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=N9m3VurYqx4uWyVz0U11KvgRY0EwoMu0vRYglBNRDdOcQ0wRs6yJPaxYFO5BlGyk7Z%2FMtmRtHd39inD%2BSd8j%2FrQzrLzm4Ai0BOoIByTsHzQj6PUt5Knt8YrA6CbdPtOcBBJ8FhoYSPlr8tNYIvgV1TpZj%2FXmAKhfoBb%2FE9p0Yrp0AP7784Ghl1rNoXH86eL8UuzOyiV%2B%2BasTBIrG%2Be%2FJg2UGIRwa5TbyO8onQMtdZz97ZCBqjtNbkOZJgt%2FtVpmCJKxcah%2FRBx%2Fe8hOL6erxM529MpMPq6kjI%2F6tj9dBumYMo3MJVg3aJJ01b9s40ImZUvQvLfDqWoABRbFdyDF0FQ%3D%3D",
+            "is_enabled": 1,
+            "num": 3,
+            "origin_price": "200",
+            "price": "200",
+            "title": "精靈球",
+            "unit": "顆"
+        },
+        {
+            "category": "商城",
+            "description": "寶可夢通用貨幣",
+            "id": "-LMvQLmWCI1z7QQvyNUJ",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537521552513.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=qa8swxfbyI%2FauOTbnzLufO3lP4Jxg%2FmnhD%2Bw80h9Y9NJNVv1LX4aJTEVAHWAYTR2%2Fd2kgexh9SO04RLu%2BAnygcVTb3fnya3GmnB2SMwtjwT1uLcwAxxzra0ngl99ylIuuT1C1oFJ9ziSY9%2B7AxJkD9pwQXhbNSqwGaEgBW%2BguB0kJccO0%2FFn9ZEo%2F0mN0PeQHJ4n%2FAXKDP4ykjP4Er9fokDpEs7dR12hARrFNfT6VZSAv808IeOGkiU2PK5nm2jvQy9uVrs1OXb1FG1ZKdJrzUD6VJD6%2FKKqm1xaSenfTYmDdgxt4NDirQJnfTRnkissEftbva8Xd0OcZM%2F%2FthXGlg%3D%3D",
+            "is_enabled": 1,
+            "num": 4,
+            "origin_price": "500",
+            "price": "450",
+            "title": "500皮卡幣",
+            "unit": "份"
+        },
+        {
+            "category": "商城",
+            "description": "寶可夢通用貨幣",
+            "id": "-LMvQEJI3fnA_A8gq0hj",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537521500416.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=EMEKnX9lfW5Wf0VysVelXVum%2FMrHhiv68oI%2BXNOVvuEl4ZXz0Lb7O6AoecGZfmhEUzl9Boig8wwcZPrD1%2B17H7%2FRxe6iDoH2Z4CMQmOJC%2Fl6bv4izwf1say%2FehYm63MlCN5z2cG0A5V5HYXTKXo6zjTZTNcN%2FwjGkJ3rrBqqqcohji6uKI1bJWLXHRULH1NsebMT94ujEOwqijols%2Bq2oCNJCVHzV9MlCxuTaX9T0ts%2BdE6v1sMfgqdnjIZ98GW3Jao6tVKAs2f8Ob0H3PJ14lh%2BhFiWqWq0xwFJMwGXkt6oOfoV1Q%2F4Kw8rdu%2BkuRRaUwvwfkM4QdPCiacK11A8jQ%3D%3D",
+            "is_enabled": 1,
+            "num": 5,
+            "origin_price": "100",
+            "price": "100",
+            "title": "100皮卡幣",
+            "unit": "份"
+        },
+        {
+            "category": "商城",
+            "description": "當你遇到寶可夢時，可以透過 Camera 相機幫它拍照。",
+            "id": "-LMvQ0DF-0Ocqp4_8oIs",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537521450712.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=iilnp17wpdLmQUtwhGAHmtNQWBcQ0KOwy4UZKyGgQUxk6NfvMubQMAAy0Qepfn96601MFLmq3opHhRpLxWo4oeDuWZsCrGJU2hGUVt2cN0%2BkMtm6pRGqDdz5zDkiLbxNcYld593NXz466uEuG%2Fu97hOmgIfyZCkxCFDmg7Tk9tlK1JQnDcK753fGy6jK%2BHwc8TAWkCj5tQ%2BXCIZT%2Fnp8UMzGr4WhNshKjQ5UkkmhoQuBAeJKxTjk3JzwOnGSogSHSQi9REfkYATY9knbir%2FUKFRXRPUjlInbXFHVE96xGLPo2a92Xtr2CKeOy%2BmisLpr8rOy2pDVjW1tEDfHsjfK4Q%3D%3D",
+            "is_enabled": 1,
+            "num": 6,
+            "origin_price": "12000",
+            "price": "8800",
+            "title": "相機",
+            "unit": "台"
+        },
+        {
+            "category": "道具",
+            "description": "使用幸運蛋後的 30 分鐘內，每當遇到寶可夢或進化都有雙倍經驗值，可以加快訓練師等級升等速度。",
+            "id": "-LMvPnOzfS48clgYaXMd",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537521406414.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=BXiMWYC3zrbxkILaFl8TuSnFLERs4fjRZeUS%2B7aVkQNIiObSpxNZfmFSvQGn89Gs0oQrmwj%2Bb3HJ%2BQkL8WQ%2FQAW5Z9MDHhjxa7ZywtltcEsxqSqr8bt0nwqhphsGfZVHVxmOCi1fiXx8Os2FWL7pMl8bW2Dkf5KCKkZ4Q5vNuaD6mocwws62WNCFnFYzfzyIJCX%2BQw9DjQFDtWYKiZDzlfAnCYm4ICSk35VJ9dnbIxvHA3sK5IdyfSs5GPTsO2hiG9bhOW5BtD%2FXbk34wwCSct8qchM%2FHV%2BJclZVRlvTZUG5XZhuL9M3c9M2q79ybx0BeEGg%2BLg%2BpiDxTHlT6E6rWw%3D%3D",
+            "is_enabled": 1,
+            "num": 7,
+            "origin_price": "300",
+            "price": "300",
+            "title": "幸運蛋X3",
+            "unit": "份"
+        },
+        {
+            "category": "精靈球",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。精靈球的作用是捕捉或者攜帶寶可夢，不同種類的精靈球擁有不同的特殊效果。",
+            "id": "-LMvPfgbqL8CZWbCj91l",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537521374432.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=I8A97YlBIbT%2BnJOOnQ1YACNUia%2BERol3bgWd%2FpHLDhIC86wy09nYNIr12TR5q5HoC1Ava5fmx9srTk61p6RZ1jEEX5EotDYhgyRRziRK3OrismLpFu5%2BT2Je4nmfoVnEFfSSNfOXVdejl5Yloi4Jy3ZYXLjcPoBzygjw1fSxp44N5sKx%2F02FEw%2BzPRfCI8yQMMMMGBwjgu4V3l0Z9B4RSdIVi3Iy95pt2bxC5WYQlfc7RSRyuwRGzlVaNmXJIXknpwI3s6dc1ExDOMhOuKz1BMbjrqBFe40dQy0KI%2BzxbSQHCD32riteGyMS4jF5PfUnBBIx%2FSoQ92gEyW956vCCnQ%3D%3D",
+            "is_enabled": 0,
+            "num": 8,
+            "origin_price": "1000",
+            "price": "900",
+            "title": "精靈球X5",
+            "unit": "組"
+        },
+        {
+            "category": "藥品",
+            "description": "當寶可夢生命值變 0 時，Revive 復活石可以讓寶可夢復活並恢復 50% 的生命值。",
+            "id": "-LMvPV5A84IYPzUhwG6U",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537521306466.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=B3F6ijFY4%2FKbQ1FFCRacALUrlzJ6NEEZ3tQAxmAfc5yQ3h%2BqA3xYsflerHhBRwsBST4nNoEZTUSTwkv7gjH8qKeWg73RDIFh8owlXdED7j%2F0a75DhHxQgBzcT%2FiYHus3jmQkdgSMlWEi4G%2BEIK8s0u8G%2F%2FQ9Oqs5h3HMEhxTrkqqF3fxXRYKoVGq2tVSV8YDpXe1rjF6BAzftmHPnhVXX328oF7VQHC%2FApPNIaTE7HSOjfVJhzhelLQN8lS%2F3IB0%2Bs1JLQCupoWuuHH9VQ%2FFHwnbPMky43f%2FyAn%2FCiH7cWaFBcfYIZ5P1gR%2FRh15A5O%2BianDVCDvEY2ee0mwCy3gvg%3D%3D",
+            "is_enabled": 1,
+            "num": 9,
+            "origin_price": "900",
+            "price": "800",
+            "title": "復活石X3",
+            "unit": "份"
+        },
+        {
+            "category": "商城",
+            "content": "",
+            "description": "不知道裡面有什麼",
+            "id": "-LMml_U32NQxwdwuBy9F",
+            "imageUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/icguanyu%2F1537376363518.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=c4D38HenB5AfDW6NWQGUrdFM02A1kRJA685c8%2FCB9SgEDMthsAy9qg6kgBpVg3CnTNlo6grfPIHHgXo0pGoIf1ZG23UUojttKEcXV%2FeBrZDEFoJ524jC644mPK09qwbxo%2BSQMHTDXx9PirL%2BQN8ArmuWK1XJ1x2RaPwaL09%2F4GigaFH7HsQoul9JUhO9OxpF3BFrNWyS6KgvYoD5Dpgc0bmPxfieHVj%2BAxSyTqaoQtgXWJPAdLarm6tNInBUzmRHssw5Rzy2sjLKDfvj1Nf87em6jd8CFt0qWE3BSq37%2FszTFux1hW459zgp8WYQf4Kj0HOYXQy99hoUoEwoqE7I1w%3D%3D",
+            "is_enabled": 1,
+            "num": 10,
+            "origin_price": "999",
+            "price": "199",
+            "title": "綜合大禮包",
+            "unit": "包"
+        }
+    ],
+    "pagination": {
+        "total_pages": 2,
+        "current_page": 1,
+        "has_pre": false,
+        "has_next": true,
+        "category": null
+    },
+    "messages": []
+}
