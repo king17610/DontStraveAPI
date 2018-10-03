@@ -1,0 +1,117 @@
+{
+    "success": true,
+    "products": [
+        {
+            "category": "商城",
+            "description": "現省1000元哦",
+            "id": "Wilson",
+            "imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wilson.png",
+            "is_enabled": 1,
+            "num": 1,
+            "origin_price": "10000",
+            "price": "9000",
+            "title": "一萬皮卡幣"
+        },
+        {
+            "category": "精靈球",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。精靈球的作用是捕捉或者攜帶寶可夢，不同種類的精靈球擁有不同的特殊效果。",
+            "id": "Willow",
+             "imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Willow.png",
+			"is_enabled": 0,
+            "num": 2,
+            "origin_price": "600",
+            "price": "600",
+            "title": "精靈球X3"
+        },
+        {
+            "category": "精靈球",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。精靈球的作用是捕捉或者攜帶寶可夢，不同種類的精靈球擁有不同的特殊效果。",
+            "id": "Wendy",
+			 "imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wendy.png",
+            "is_enabled": 1,
+            "num": 3,
+            "origin_price": "200",
+            "price": "200",
+            "title": "精靈球"
+        },
+        {
+            "category": "商城",
+            "description": "寶可夢通用貨幣",
+            "id": "Wes",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wes.png",
+            "is_enabled": 1,
+            "num": 4,
+            "origin_price": "500",
+            "price": "450",
+            "title": "500皮卡幣"
+        },
+        {
+            "category": "商城",
+            "description": "寶可夢通用貨幣",
+            "id": "Wigfrid",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wigfrid.png",
+            "is_enabled": 1,
+            "num": 5,
+            "origin_price": "100",
+            "price": "100",
+            "title": "100皮卡幣"
+        },
+        {
+            "category": "商城",
+            "description": "當你遇到寶可夢時，可以透過 Camera 相機幫它拍照。",
+            "id": "Wickerbottom",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wickerbottom.png",
+            "is_enabled": 1,
+            "num": 6,
+            "origin_price": "12000",
+            "price": "8800",
+            "title": "相機"
+        },
+        {
+            "category": "道具",
+            "description": "使用幸運蛋後的 30 分鐘內，每當遇到寶可夢或進化都有雙倍經驗值，可以加快訓練師等級升等速度。",
+            "id": "Webber",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Webber.png",
+            "is_enabled": 1,
+            "num": 7,
+            "origin_price": "300",
+            "price": "300",
+            "title": "幸運蛋X3"
+        },
+        {
+            "category": "精靈球",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。精靈球的作用是捕捉或者攜帶寶可夢，不同種類的精靈球擁有不同的特殊效果。",
+            "id": "Waxwell",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Waxwell.png",
+            "is_enabled": 0,
+            "num": 8,
+            "origin_price": "1000",
+            "price": "900",
+            "title": "精靈球X5"
+        },
+        {
+            "category": "藥品",
+            "description": "當寶可夢生命值變 0 時，Revive 復活石可以讓寶可夢復活並恢復 50% 的生命值。",
+            "id": "WX-78",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/WX-78.png",
+            "is_enabled": 1,
+            "num": 9,
+            "origin_price": "900",
+            "price": "800",
+            "title": "復活石X3"
+        },
+        {
+            "category": "商城",
+            "content": "",
+            "description": "不知道裡面有什麼",
+            "id": "Wilbur",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wilbur.png",
+            "is_enabled": 1,
+            "num": 10,
+            "origin_price": "999",
+            "price": "199",
+            "title": "綜合大禮包"
+        }
+    ],
+    "messages": []
+}
