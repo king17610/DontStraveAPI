@@ -46,15 +46,15 @@
             "title": "Wendy"
         },
         {
-            "category": "角色",
+            "category": "道具",
             "description": "寶可夢通用貨幣",
-            "id": "Wigfrid",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wigfrid.png",
+            "id": "Snowchild_Frock_Icon",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Tool/Snowchild_Frock_Icon.png",
             "is_enabled": 1,
             "num": 5,
             "origin_price": "100",
             "price": "100",
-            "title": "Wigfrid"
+            "title": "防寒雪衣"
         },
         {
             "category": "角色",
@@ -70,13 +70,13 @@
         {
             "category": "道具",
             "description": "使用幸運蛋後的 30 分鐘內，每當遇到寶可夢或進化都有雙倍經驗值，可以加快訓練師等級升等速度。",
-            "id": "Webber",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Webber.png",
+            "id": "Battle_Standard",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Tool/Battle_Standard.png",
             "is_enabled": 1,
             "num": 7,
             "origin_price": "300",
             "price": "300",
-            "title": "Webber"
+            "title": "戰鬥法杖"
         },
         {
             "category": "食物",
@@ -90,27 +90,26 @@
             "title": "肉丸子"
         },
         {
-            "category": "藥品",
+            "category": "道具",
             "description": "當寶可夢生命值變 0 時，Revive 復活石可以讓寶可夢復活並恢復 50% 的生命值。",
-            "id": "WX-78",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/WX-78.png",
+            "id": "Palm_Leaf_Hut_Build",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Tool/Palm_Leaf_Hut_Build.png",
             "is_enabled": 1,
             "num": 9,
             "origin_price": "900",
             "price": "800",
-            "title": "WX-78"
+            "title": "竹製遮雨棚"
         },
         {
-            "category": "角色",
-            "content": "",
+            "category": "道具",
             "description": "不知道裡面有什麼",
-            "id": "Wilbur",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wilbur.png",
+            "id": "Piratihatitator_Build",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Tool/Piratihatitator_Build.png",
             "is_enabled": 1,
             "num": 10,
             "origin_price": "999",
             "price": "199",
-            "title": "Wilbur"
+            "title": "顛倒海盜帽"
         }
     ],
     "messages": []
