@@ -3,7 +3,7 @@
     "products": [
         {
             "category": "角色",
-            "description": "現省1000元哦",
+            "description": "大家好!我是Wilson，買我現省1000元哦",
             "id": "Wilson",
             "imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wilson.png",
             "is_enabled": 1,
@@ -14,7 +14,7 @@
         },
         {
             "category": "角色",
-            "description": "是精靈寶可夢世界中隨處可見的一種道具。食物的作用是捕捉或者攜帶寶可夢，不同種類的食物擁有不同的特殊效果。",
+            "description": "拿著打火機的調皮小女孩Willow",
             "id": "Willow",
              "imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Willow.png",
 			"is_enabled": 0,
@@ -25,7 +25,7 @@
         },
         {
             "category": "食物",
-            "description": "是精靈寶可夢世界中隨處可見的一種道具。食物的作用是捕捉或者攜帶寶可夢，不同種類的食物擁有不同的特殊效果。",
+            "description": "就是烤過的紅蘿蔔。",
             "id": "Roasted_Carrot",
 			 "imageUrl": "https://king17610.github.io/pokemonAPI/products/Food/Roasted_Carrot.png",
             "is_enabled": 1,
@@ -36,7 +36,7 @@
         },
         {
             "category": "角色",
-            "description": "是精靈寶可夢世界中隨處可見的一種道具。食物的作用是捕捉或者攜帶寶可夢，不同種類的食物擁有不同的特殊效果。",
+            "description": "擁有著一位花朵幽靈姊姊。",
             "id": "Wendy",
 			 "imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wendy.png",
             "is_enabled": 1,
@@ -47,7 +47,7 @@
         },
         {
             "category": "道具",
-            "description": "寶可夢通用貨幣",
+            "description": "時下最流行，少女們最喜愛的雪衣",
             "id": "Snowchild_Frock_Icon",
 			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Tool/Snowchild_Frock_Icon.png",
             "is_enabled": 1,
@@ -58,7 +58,7 @@
         },
         {
             "category": "角色",
-            "description": "當你遇到寶可夢時，可以透過 Camera 相機幫它拍照。",
+            "description": "沒事少惹他 !!",
             "id": "Wickerbottom",
 			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wickerbottom.png",
             "is_enabled": 1,
@@ -69,7 +69,7 @@
         },
         {
             "category": "道具",
-            "description": "使用幸運蛋後的 30 分鐘內，每當遇到寶可夢或進化都有雙倍經驗值，可以加快訓練師等級升等速度。",
+            "description": "使用法杖後，智力並不會提升。",
             "id": "Battle_Standard",
 			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Tool/Battle_Standard.png",
             "is_enabled": 1,
@@ -80,7 +80,7 @@
         },
         {
             "category": "食物",
-            "description": "是精靈寶可夢世界中隨處可見的一種道具。食物的作用是捕捉或者攜帶寶可夢，不同種類的食物擁有不同的特殊效果。",
+            "description": "肉肉肉肉肉肉肉肉肉，許多肉丸子堆疊而成。",
             "id": "Meatballs",
 			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Food/Meatballs.png",
             "is_enabled": 0,
@@ -91,7 +91,7 @@
         },
         {
             "category": "道具",
-            "description": "當寶可夢生命值變 0 時，Revive 復活石可以讓寶可夢復活並恢復 50% 的生命值。",
+            "description": "遮雨用，但用途很小。",
             "id": "Palm_Leaf_Hut_Build",
 			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Tool/Palm_Leaf_Hut_Build.png",
             "is_enabled": 1,
