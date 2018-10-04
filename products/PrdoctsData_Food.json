@@ -1,0 +1,50 @@
+{
+    "success": true,
+    "products": [
+        {
+            "category": "食物",
+            "description": "就是烤過的紅蘿蔔。",
+            "id": "Roasted_Carrot",
+			 "imageUrl": "https://king17610.github.io/DontStraveAPI/products/Food/Roasted_Carrot.png",
+            "is_enabled": 1,
+            "num": 1,
+            "origin_price": "200",
+            "price": "200",
+            "title": "烤蘿蔔"
+        },
+        {
+            "category": "食物",
+            "description": "肉肉肉肉肉肉肉肉肉，許多肉丸子堆疊而成。",
+            "id": "Meatballs",
+			"imageUrl": "https://king17610.github.io/DontStraveAPI/products/Food/Meatballs.png",
+            "is_enabled": 0,
+            "num": 2,
+            "origin_price": "1000",
+            "price": "900",
+            "title": "肉丸子"
+        },
+        {
+            "category": "食物",
+            "description": "就是Berries。",
+            "id": "Berries",
+			 "imageUrl": "https://king17610.github.io/DontStraveAPI/products/Food/Berries.png",
+            "is_enabled": 1,
+            "num": 3,
+            "origin_price": "200",
+            "price": "200",
+            "title": "Berries"
+        },
+        {
+            "category": "食物",
+            "description": "肉肉肉肉肉肉肉肉肉，許多Raw_Fish。",
+            "id": "Raw_Fish",
+			"imageUrl": "https://king17610.github.io/DontStraveAPI/products/Food/Raw_Fish.png",
+            "is_enabled": 0,
+            "num": 4,
+            "origin_price": "1000",
+            "price": "900",
+            "title": "Raw_Fish"
+        }
+    ],
+    "messages": []
+}
