@@ -2,10 +2,10 @@
     "success": true,
     "products": [
         {
-            "category": "商城",
+            "category": "角色",
             "description": "現省1000元哦",
             "id": "Wilson",
-            "imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wilson.png",
+            "imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wilson.png",
             "is_enabled": 1,
             "num": 1,
             "origin_price": "10000",
@@ -13,10 +13,10 @@
             "title": "Wilson"
         },
         {
-            "category": "精靈球",
-            "description": "是精靈寶可夢世界中隨處可見的一種道具。精靈球的作用是捕捉或者攜帶寶可夢，不同種類的精靈球擁有不同的特殊效果。",
+            "category": "角色",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。食物的作用是捕捉或者攜帶寶可夢，不同種類的食物擁有不同的特殊效果。",
             "id": "Willow",
-             "imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Willow.png",
+             "imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Willow.png",
 			"is_enabled": 0,
             "num": 2,
             "origin_price": "600",
@@ -24,10 +24,21 @@
             "title": "Willow"
         },
         {
-            "category": "精靈球",
-            "description": "是精靈寶可夢世界中隨處可見的一種道具。精靈球的作用是捕捉或者攜帶寶可夢，不同種類的精靈球擁有不同的特殊效果。",
+            "category": "食物",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。食物的作用是捕捉或者攜帶寶可夢，不同種類的食物擁有不同的特殊效果。",
+            "id": "Roasted_Carrot",
+			 "imageUrl": "https://king17610.github.io/pokemonAPI/products/Food/Roasted_Carrot.png",
+            "is_enabled": 1,
+            "num": 3,
+            "origin_price": "200",
+            "price": "200",
+            "title": "烤蘿蔔"
+        },
+        {
+            "category": "角色",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。食物的作用是捕捉或者攜帶寶可夢，不同種類的食物擁有不同的特殊效果。",
             "id": "Wendy",
-			 "imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wendy.png",
+			 "imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wendy.png",
             "is_enabled": 1,
             "num": 3,
             "origin_price": "200",
@@ -35,21 +46,10 @@
             "title": "Wendy"
         },
         {
-            "category": "商城",
-            "description": "寶可夢通用貨幣",
-            "id": "Wes",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wes.png",
-            "is_enabled": 1,
-            "num": 4,
-            "origin_price": "500",
-            "price": "450",
-            "title": "Wes"
-        },
-        {
-            "category": "商城",
+            "category": "角色",
             "description": "寶可夢通用貨幣",
             "id": "Wigfrid",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wigfrid.png",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wigfrid.png",
             "is_enabled": 1,
             "num": 5,
             "origin_price": "100",
@@ -57,10 +57,10 @@
             "title": "Wigfrid"
         },
         {
-            "category": "商城",
+            "category": "角色",
             "description": "當你遇到寶可夢時，可以透過 Camera 相機幫它拍照。",
             "id": "Wickerbottom",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wickerbottom.png",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wickerbottom.png",
             "is_enabled": 1,
             "num": 6,
             "origin_price": "12000",
@@ -71,7 +71,7 @@
             "category": "道具",
             "description": "使用幸運蛋後的 30 分鐘內，每當遇到寶可夢或進化都有雙倍經驗值，可以加快訓練師等級升等速度。",
             "id": "Webber",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Webber.png",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Webber.png",
             "is_enabled": 1,
             "num": 7,
             "origin_price": "300",
@@ -79,21 +79,21 @@
             "title": "Webber"
         },
         {
-            "category": "精靈球",
-            "description": "是精靈寶可夢世界中隨處可見的一種道具。精靈球的作用是捕捉或者攜帶寶可夢，不同種類的精靈球擁有不同的特殊效果。",
-            "id": "Waxwell",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Waxwell.png",
+            "category": "食物",
+            "description": "是精靈寶可夢世界中隨處可見的一種道具。食物的作用是捕捉或者攜帶寶可夢，不同種類的食物擁有不同的特殊效果。",
+            "id": "Meatballs",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Food/Meatballs.png",
             "is_enabled": 0,
             "num": 8,
             "origin_price": "1000",
             "price": "900",
-            "title": "Waxwell"
+            "title": "肉丸子"
         },
         {
             "category": "藥品",
             "description": "當寶可夢生命值變 0 時，Revive 復活石可以讓寶可夢復活並恢復 50% 的生命值。",
             "id": "WX-78",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/WX-78.png",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/WX-78.png",
             "is_enabled": 1,
             "num": 9,
             "origin_price": "900",
@@ -101,11 +101,11 @@
             "title": "WX-78"
         },
         {
-            "category": "商城",
+            "category": "角色",
             "content": "",
             "description": "不知道裡面有什麼",
             "id": "Wilbur",
-			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Img/Wilbur.png",
+			"imageUrl": "https://king17610.github.io/pokemonAPI/products/Character/Wilbur.png",
             "is_enabled": 1,
             "num": 10,
             "origin_price": "999",
